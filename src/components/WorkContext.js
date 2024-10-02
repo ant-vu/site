@@ -36,14 +36,14 @@ export function WorkProvider({ children }) {
             company: 'McMaster',
             period: '2021',
             description: '',
-            skills: 'Python Java'
+            skills: 'Kotlin Python'
         },
         {
             title: 'Software Developer Intern',
             company: 'Llettonna',
             period: '2020',
             description: '',
-            skills: 'Java SQL'
+            skills: 'React Java'
         }
     ];
     return (

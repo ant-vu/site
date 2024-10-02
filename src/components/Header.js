@@ -43,7 +43,7 @@ function Header() {
             <em>Make it Fun. Make it Cool. Make it Yours.</em>
           </p>
           <p className="mt-4 font-Inter font-normal">
-            Hey, this is Anthony, welcome! I recently graduated from McMaster University, Ontario, Canada finishing my Bachelors on Computer Science with <em>2+ years of professional experience</em>. <strong>I bring a unique blend of technical expertise and passion to pick up literally anything and run with it.</strong> 
+            Hey, this is Anthony, welcome! <strong>I bring a unique blend of technical expertise and passion to pick up literally anything and run with it.</strong> 
           </p>
           <p className="mt-4 font-DMMono font-normal">
             Everything will find its right place someday. :)
