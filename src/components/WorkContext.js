@@ -44,6 +44,20 @@ export function WorkProvider({ children }) {
             period: '2020',
             description: 'Implemented a REST API using Java, MySQL, and Postman; debugged a codebase containing React, Redux, MUI, JavaScript, Tailwind CSS, and HTML; researched the pros and cons of migrating to PostgreSQL or cloud services like AWS',
             skills: 'React Java'
+        },
+        {
+            title: 'Software Developer',
+            company: 'Memofood',
+            period: '2019',
+            description: 'Designed logos with Adobe Photoshop; prototyped on Figma; developed a full-stack web application using JavaScript, CSS, Bootstrap, HTML, and Git; pitched to angel investors and won the Best Overall Project award at Western University',
+            skills: 'JavaScript Figma'
+        },
+        {
+            title: 'Head Altar Server',
+            company: 'St. Pat\'s',
+            period: '2010',
+            description: 'Awarded the Serra International Bishop’s Altar Server medallion; resolved IT-related issues regarding live streaming; founding member of the De Mazenod Door ministry and invited Prime Minister Trudeau to help serve 500+ meals per day',
+            skills: ''
         }
     ];
     return (

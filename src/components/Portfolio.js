@@ -6,11 +6,7 @@ import WannaPlaySomeTunes from './WannaPlaySomeTunes';
 import Header from './Header';
 
 function Portfolio({ className }) {
-  const [projectExpanded, setProjectExpanded] = useState(false);
-
-  function handleProjectExpand(data) {
-    setProjectExpanded(data);
-  }
+  const [projectExpanded] = useState(false);
 
   const transitionClasses = "transition-all duration-500 ${!expanded ? 'delay-500' : ''} ease-in-out";
   const expandedClasses = "max-h-0 opacity-0 my-0";
