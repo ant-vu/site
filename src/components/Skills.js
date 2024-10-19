@@ -2,8 +2,8 @@ import React from 'react';
 
 function Skills() {
   const skills = {
-    Programming: ['Python, TypeScript, JavaScript, Java, C, C++, C#, Go, Rust, Scala, Ruby, CSS, Sass, HTML, SQL, Assembly'],
-    Tools: ['Angular, React, Express, Next.js, Node.js, Tailwind CSS, Bootstrap, Docker, Kubernetes, Linux, Git, Playwright, Jest']
+    Programming: ['Python, TypeScript, JavaScript, Scala, Java, Kotlin, Swift, C, C++, C#, Go, Rust, Sass, CSS, HTML, Bash, SQL'],
+    Tools: ['React, Express, Next.js, Angular, Node.js, PostgreSQL, MySQL, Docker, Kubernetes, Linux, Git, Google Cloud, AWS']
   };
 
   return (
