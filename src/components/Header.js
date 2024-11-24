@@ -43,7 +43,7 @@ function Header() {
             <em>Make it Fun. Make it Cool. Make it Yours.</em>
           </p>
           <p className="mt-4 font-Inter font-normal">
-            Hey, this is Anthony, welcome! <strong>I bring a unique blend of technical expertise and passion to pick up literally anything and run with it.</strong> 
+            Hey, this is Anthony, welcome! <strong>I possess a unique blend of technical expertise and a passion for taking on any challenge.</strong> 
           </p>
           <p className="mt-4 font-DMMono font-normal">
             Everything will find its right place someday. :)
